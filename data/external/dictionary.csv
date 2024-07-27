@@ -1,0 +1,16 @@
+variavel,descrição,tipo,subtipo
+survived,Se a pessoa sobreviveu ou não,qualitativo,nominal
+pclass,"CLasse da passagem (1,2,3)",qualitativo,ordinal
+sex,Gênero do passageiro,qualitativo,nominal
+age,Idade do passageiro,quantitativo,contínua
+sibsp,Se o passageiro possui irmãos/cônjuges a bordo,quantitativo,discreto
+parch,Se o passageiro possui pais/filhos a bordo,quantitativo,discreto
+fare,Valor da passagem,quantitativo,contínuo
+"embarked,","Porto de embarque (C, Q, S)",qualitativo,nominal
+class,"Classe do passageiro (1,2,3)",qualitativo,ordinal
+who,Nome do passageiro,qualitativo,nominal
+adult_male,Se é um homem adulto,qualitativo,nominal
+deck,Qual cabine o passageiro está hospedado,quantitativo,discreto
+embark_town,Cidade de embarque,qualitativo,nominal
+alive,Se a pessoa sobreviveu ou não,qualitativo,nominal
+alone,Se a pessoa está só ou não,qualitativo,nominal
