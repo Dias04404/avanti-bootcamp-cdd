@@ -8,7 +8,7 @@ parch,Se o passageiro possui pais/filhos a bordo,quantitativo,discreto
 fare,Valor da passagem,quantitativo,contínuo
 embarked,"Porto de embarque (C, Q, S)",qualitativo,nominal
 class,"Classe do passageiro (1,2,3)",qualitativo,ordinal
-who,Nome do passageiro,qualitativo,nominal
+who,Perfil do passageiro,qualitativo,nominal
 adult_male,Se é um homem adulto,qualitativo,nominal
 deck,Qual cabine o passageiro está hospedado,quantitativo,discreto
 embark_town,Cidade de embarque,qualitativo,nominal
