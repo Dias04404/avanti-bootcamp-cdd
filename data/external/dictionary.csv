@@ -6,7 +6,7 @@ age,Idade do passageiro,quantitativo,contínua
 sibsp,Se o passageiro possui irmãos/cônjuges a bordo,quantitativo,discreto
 parch,Se o passageiro possui pais/filhos a bordo,quantitativo,discreto
 fare,Valor da passagem,quantitativo,contínuo
-"embarked,","Porto de embarque (C, Q, S)",qualitativo,nominal
+embarked,"Porto de embarque (C, Q, S)",qualitativo,nominal
 class,"Classe do passageiro (1,2,3)",qualitativo,ordinal
 who,Nome do passageiro,qualitativo,nominal
 adult_male,Se é um homem adulto,qualitativo,nominal
