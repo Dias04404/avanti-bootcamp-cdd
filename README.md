@@ -1,14 +1,11 @@
 # Projeto para Bootcamp de Análise de Dados Avanti
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+As atividades realizadas ao longo desse projeto foram assistidas e apresentadas no BootCamp de Ciência de Dados promovido pelo grupo Avanti-Atlântico 2024.2. 
+
+É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
 ## Desenvolvedores:
  - [Gabriela Dias](https://github.com/Dias04404)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
-
----
-
 
 ## Funcionalidades
 
