@@ -4,8 +4,8 @@ As atividades realizadas ao longo desse projeto foram assistidas e apresentadas 
 
 É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
-## Desenvolvedores:
- - [Gabriela Dias](https://github.com/Dias04404)
+## Desenvolvedores
+ - [Gabriela Dias](https://github.com/Dias04404))
 
 ## Funcionalidades
 
