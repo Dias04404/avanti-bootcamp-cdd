@@ -10,7 +10,7 @@ embarked,"Porto de embarque (C, Q, S)",qualitativo,nominal
 class,"Classe do passageiro (1,2,3)",qualitativo,ordinal
 who,Perfil do passageiro,qualitativo,nominal
 adult_male,Se é um homem adulto,qualitativo,nominal
-deck,Qual cabine o passageiro está hospedado,quantitativo,discreto
+deck,"Qual cabine o passageiro está hospedado(A,B,C,D,E,F,G)",qualitativo,ordinal
 embark_town,Cidade de embarque,qualitativo,nominal
 alive,Se a pessoa sobreviveu ou não,qualitativo,nominal
 alone,Se a pessoa está só ou não,qualitativo,nominal
